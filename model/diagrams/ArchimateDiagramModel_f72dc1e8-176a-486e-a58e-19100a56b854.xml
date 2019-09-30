@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Test1"
-    id="f72dc1e8-176a-486e-a58e-19100a56b854">
+    id="f72dc1e8-176a-486e-a58e-19100a56b854"
+    connectionRouterType="2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="1512a610-f006-4fdb-a411-6c8d07f0ffec">
